@@ -1,0 +1,7 @@
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\Lesson3\bin\Debug\Lesson3.exe.config
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\Lesson3\bin\Debug\Lesson3.exe
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\Lesson3\bin\Debug\Lesson3.pdb
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\Lesson3\obj\Debug\Lesson3.csproj.AssemblyReference.cache
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\Lesson3\obj\Debug\Lesson3.exe
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\Lesson3\obj\Debug\Lesson3.pdb
