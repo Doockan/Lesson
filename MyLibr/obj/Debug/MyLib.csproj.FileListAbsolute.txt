@@ -1,0 +1,11 @@
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\MyLibr\bin\Debug\MyLibr.dll
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\MyLibr\bin\Debug\MyLibr.pdb
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\MyLibr\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\MyLibr\obj\Debug\MyLibr.dll
+C:\Users\Stroisad\Desktop\repo\CsharpLesson\Lesson\MyLibr\obj\Debug\MyLibr.pdb
+C:\Users\Stroisad\Desktop\MyHomeW\Lesson\MyLibr\bin\Debug\MyLibr.dll
+C:\Users\Stroisad\Desktop\MyHomeW\Lesson\MyLibr\bin\Debug\MyLibr.pdb
+C:\Users\Stroisad\Desktop\MyHomeW\Lesson\MyLibr\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\Users\Stroisad\Desktop\MyHomeW\Lesson\MyLibr\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\Stroisad\Desktop\MyHomeW\Lesson\MyLibr\obj\Debug\MyLibr.dll
+C:\Users\Stroisad\Desktop\MyHomeW\Lesson\MyLibr\obj\Debug\MyLibr.pdb
